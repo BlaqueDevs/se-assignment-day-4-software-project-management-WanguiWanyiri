@@ -7,28 +7,28 @@ Timely delivery is crucial as it ensures the project is on schedule in every sta
 Cost control contributes to the success of a software project as it manages budget and prevents cost overruns. Strategies used to prevent budget overruns include estimatimating costs for resources, materials, and equipment and develop a budget plan.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile methodologies-Iterative and incremental approach to project management and software development and Emphasizes flexibility, collaboration, and customer feedback whereas waterfall methodologies are Linear and sequential approach, Each phase must be completed before the next begins. 
-#Advantages of Agile methodologies 
+Advantages of Agile methodologies 
 1. Quick response to changes.
 2. Regular customer feedback.
 3. Improved team collaboration.
-#Disadvantages of Agile methodologies
+Disadvantages of Agile methodologies
 1. Less predictability.
 2. Requires significant customer involvement.
 
-#Advantages of waterfall methodologies
+Advantages of waterfall methodologies
 1. Clear structure and documentation.
 2. Easy to manage due to its rigidity.
-#Disadvantages of waterfall methodologies
+Disadvantages of waterfall methodologies
 1. Difficult to accommodate changes.
 2. Testing occurs late in the process.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Projects with Evolving Requirements, High Uncertainty or Complexity, User-Centric Products, Fast Time-to-Market are types of projects where agile methodologies might be more beneficial compared to waterfall methodologies whereas Clearly Defined Requirements, Low Tolerance for Change, Heavily Regulated Industries, Fixed Budget and Timeline are projects where waterfall methodologies would be more beneficial compared to agile methodologies. 
-#Examples of agile projects: 
+Examples of agile projects: 
 1. Mobile App Development.
 2. Web Application with Changing Scope
 3. Startups with MVPs (Minimum Viable Products)
 
-#Examples of waterfall projects
+Examples of waterfall projects
 1. Construction Projects
 2. Government Projects
 3. Enterprise Software Development
